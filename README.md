@@ -5,6 +5,7 @@ The Forest Segmentation project is an initiative that utilizes the Unet model to
 
 [Original Kaggle Notebook](https://www.kaggle.com/code/davidhavrilenko/forest-segmentation/notebook)
 
+
 Key Components:
 - Model and Training: The Unet model, renowned for its efficiency in image segmentation, has been trained on GPU P100 over 19 epochs, with each epoch taking approximately 2 minutes.
 - Data Source: The model was trained using a comprehensive dataset of 5108 masked images, carefully curated to represent various forest types and conditions.
